@@ -1,4 +1,4 @@
-# ONIX-IDE
+# ONIX-TEXT
 Webserverless, portable and offline text file editor meant for HTML, JS and other such files
 
 
